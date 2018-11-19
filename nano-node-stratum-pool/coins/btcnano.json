@@ -1,0 +1,7 @@
+{
+    "name": "LTE",
+    "symbol": "LTE",
+    "algorithm": "equihash",
+    "txfee": 0.001
+}
+

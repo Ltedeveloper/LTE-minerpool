@@ -1,0 +1,141 @@
+2018-01-06 15:19:53 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223193896}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:19:53 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223193904}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:19:53 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223193897}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:23:03 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223383422}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:23:03 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223383423}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:23:03 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515223383425}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819746}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819753}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819696}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819432}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819425}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819706}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819547}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819452}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819505}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819700}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819421}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819440}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819698}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819552}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819567}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819602}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819436}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819716}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819749}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819531}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819746}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:30:19 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocksubsidy","params":[],"id":1515223819751}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:33:51 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515224031576}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:33:51 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515224031579}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:42:08 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515224528773}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:51:39 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225099614}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:51:39 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225099613}
+Reponse Data: Work queue depth exceeded
+2018-01-06 15:55:02 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225302378}
+Reponse Data: Work queue depth exceeded
+2018-01-06 16:06:15 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225975012}
+Reponse Data: Work queue depth exceeded
+2018-01-06 16:06:15 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225975016}
+Reponse Data: Work queue depth exceeded
+2018-01-06 16:06:15 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225975017}
+Reponse Data: Work queue depth exceeded
+2018-01-06 16:06:15 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515225975016}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:04:51 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229491627}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:05:01 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229501525}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:05:01 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229501527}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:05:01 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229501529}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:05:01 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229501533}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:08:07 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515229687201}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:19:41 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515230381740}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:19:41 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515230381741}
+Reponse Data: Work queue depth exceeded
+2018-01-06 17:19:41 [Pool] [bitcoin nano] - Could not parse rpc data from daemon instance  0
+Request Data: {"method":"getblocktemplate","params":[{"capabilities":["coinbasetxn","workid","coinbase/append"],"rules":["segwit"]}],"id":1515230381742}
+Reponse Data: Work queue depth exceeded

@@ -1,0 +1,85 @@
+{
+    "enabled":true,
+    "coin": "btcnano.json",
+
+    "address": "LNrzUtXyS7u7DiXBZn5ZW57vVijQgkqzWi",
+    "_comment_address": "pools btcnano address; ex, NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC",
+
+    "zAddress": "LNrzUtXyS7u7DiXBZn5ZW57vVijQgkqzWi",
+    "_comment_zAddress": "shielding not required in btcnano, not used",
+
+    "tAddress": "LNrzUtXyS7u7DiXBZn5ZW57vVijQgkqzWi",
+    "_comment_tAddress": "set to same as pools btcnano address; ex, NXuw7NYX4o74cnxtykkAF2sgQTq8LZvjUC",
+
+    "walletInterval": 1,
+    "_comment_walletInterval": "Used to cache komodo coin stats, shielding not performed.",
+
+    "rewardRecipients": {
+        "LNrzUtXyS7u7DiXBZn5ZW57vVijQgkqzWi": 1.0
+    },
+
+    "tlsOptions": {
+        "enabled": false,
+        "serverKey":"",
+        "serverCert":"",
+        "ca":""
+    },
+
+    "paymentProcessing": {
+	"minConf": 10,
+        "enabled": true,
+        "paymentMode": "prop",
+        "_comment_paymentMode":"prop, pplnt",
+        "paymentInterval": 57,
+        "_comment_paymentInterval": "Interval in seconds to check and perform payments.",
+        "minimumPayment": 0.1,
+        "maxBlocksPerPayment": 3,
+        "daemon": {
+            "host": "127.0.0.1",
+            "port": 12345,
+            "user": "test",
+            "password": "test"
+        }
+    },
+
+    "ports": {
+        "3032": {
+            "tls":false,
+            "diff": 0.05,
+            "varDiff": {
+                "minDiff": 0.04,
+                "maxDiff": 16,
+                "targetTime": 15,
+                "retargetTime": 60,
+                "variancePercent": 30
+            }
+        }
+    },
+
+    "daemons": [
+        {
+            "host": "127.0.0.1",
+            "port": 12345,
+            "user": "test",
+            "password": "test"
+        }
+    ],
+
+    "p2p": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 19333,
+        "disableTransactions": true
+    },
+
+    "mposMode": {
+        "enabled": true,
+        "host": "192.168.1.221",
+        "port": 3309,
+        "user": "root",
+        "password": "123456",
+        "database": "lite-minepool2",
+        "checkPassword": false,
+        "autoCreateWorker": true
+    }
+}

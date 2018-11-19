@@ -1,0 +1,2 @@
+2018-01-06 19:25:54 [MySQL] [bitcoin nano] - Database error when authenticating worker: {"code":"ER_BAD_DB_ERROR","errno":1049,"sqlMessage":"Unknown database 'lte-minepool2'","sqlState":"42000","fatal":true}
+2018-01-06 19:27:06 [MySQL] [bitcoin nano] - Database error when authenticating account: {"code":"ER_NO_SUCH_TABLE","errno":1146,"sqlMessage":"Table 'lite-minepool2.accounts' doesn't exist","sqlState":"42S02","index":0,"sql":"SELECT id,username FROM accounts WHERE username = LOWER('t1cvvifvgjinq4w3c2m2cfrxgp5dnhyaofc')"}
