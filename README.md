@@ -1,4 +1,4 @@
-# Bitcoin Nano - Node Open Mining Portal
+# LTE - Node Open Mining Portal
 
 
 This is a Equihash mining pool based off of Node Open Mining Portal.
